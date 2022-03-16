@@ -1,0 +1,23 @@
+body{
+    background-color: aliceblue;
+    color: dodgerblue;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0.5em 3em;
+    width: 500px;
+}
+
+h1{
+    font-weight: 900;
+    font-size: 3em;
+}
+
+.nav{
+    background-color: aquamarine;
+    padding: 2em;
+    border-radius: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: darkblue;
+}
